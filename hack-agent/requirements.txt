@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-openai
+descope
+notion-client
+google-api-python-client
+groq
+together
